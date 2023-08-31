@@ -4,18 +4,18 @@ export const mainContent = {
   tagline: `Web Development Learning Platform`
 };
 
-export const socialLinks = [
-  {
-    title: 'Instagram',
-    icon: 'mdi:instagram',
-    url: 'https://www.instagram.com/iamsrhell/',
-  },
-  {
-    title: 'Twitter',
-    icon: 'mdi:twitter  ',
-    url: 'https://twitter.com/iamsrhell/',
-  }
-]
+// export const socialLinks = [
+//   {
+//     title: 'Instagram',
+//     icon: 'mdi:instagram',
+//     url: 'https://www.instagram.com/iamsrhell/',
+//   },
+//   {
+//     title: 'Twitter',
+//     icon: 'mdi:twitter  ',
+//     url: 'https://twitter.com/iamsrhell/',
+//   }
+// ]
 
 export const links = [
   {
