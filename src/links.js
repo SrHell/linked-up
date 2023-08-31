@@ -1,6 +1,6 @@
 export const mainContent = {
   imgSrc: `/assets/profile.png`,
-  name: `Little Sticks`,
+  name: `IamSrHell`,
   tagline: `Web Development Learning Platform`
 };
 
